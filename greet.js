@@ -1,3 +1,3 @@
-const helloWorld = ()=>{
+const hellWorld = ()=>{
   return "Hello World!";
 }
